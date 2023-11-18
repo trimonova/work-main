@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<VTKFile type="UnstructuredGrid" version="0.1" byte_order="LittleEndian" compressor="vtkZLibDataCompressor">
+<!--This file was created by meshio v5.3.4-->
+<UnstructuredGrid>
+<Piece NumberOfPoints="22" NumberOfCells="20">
+<Points>
+<DataArray type="Float64" Name="Points" NumberOfComponents="3" format="binary">
+AQAAAACAAAAQAgAAmgAAAA==eJxjYEAGD+x7rv8Hgvl7ClJnAsFJe5i4QR2IP3NPQjSIugkXv6NpDAST90z5bwSkH8PFP6wHqevcUx4Iol/CxUMkZgH5lXvkloDseQ8XB1PbNXep84HM+wwX5xAG6a+0me2VBgTfEOZUg823EW4H0T/h4rPMwO6x6Tl8Bgj+wMV7wO6ZaQP1qANM3EoERC+AiY/4cAAAyca2AQ==
+</DataArray>
+</Points>
+<Cells>
+<DataArray type="Int64" Name="connectivity" format="binary">
+AQAAAACAAABAAQAAOAAAAA==eJxdxTcCgCAQADDsWBHL/7/q4E3JkpR+Dbfccc8Djzxx5pmXeI033vngwidXvvjmh9/4A7SgAaU=
+</DataArray>
+<DataArray type="Int64" Name="offsets" format="binary">
+AQAAAACAAACgAAAANwAAAA==eJwtxdEGgDAAAMDJJMlkJjNJMtn/f2EP3b3cFH7Rsxev3py8O7v4cHXz6cu3H3e/Hv4AYOABpQ==
+</DataArray>
+<DataArray type="Int64" Name="types" format="binary">
+AQAAAACAAACgAAAADwAAAA==eJxjZoAA5kFKAwAUUAA9
+</DataArray>
+</Cells>
+<CellData>
+<DataArray type="Int64" Name="cell_id" format="binary">
+AQAAAACAAACgAAAAMAAAAA==eJwtxUkCgBAAAECpiKLt/391MHOZEKbF0as3707OPlxcffpyc/ftx68//x4qMAC/
+</DataArray>
+<DataArray type="Int64" Name="grid_dim" format="binary">
+AQAAAACAAACgAAAADwAAAA==eJxjZIAAxkFKAwAHMAAV
+</DataArray>
+<DataArray type="Float64" Name="interface_darcy_flux" format="binary">
+AQAAAACAAACgAAAAqwAAAA==eJwBoABf/6XB6/3wQYW/auvkX10umr/X5+Vss8uVv7TKhsiu4ou/r3egwkqtfr8mSwyFZpJwv+3KUVHtvmC/FIh6FRPYZb+SWWGviHWIv2rah4oCGoM/Jnhk2Jl9hb+lfrBPEW2av26ev8zNoJW/g+smGR7Hir/WPNL0axB/v/P/7rpyPHG/Vk5ultfKYr+hCAcjN8dkv2lqishrcYi/U4MHvQsegz/2DFcP
+</DataArray>
+<DataArray type="Int64" Name="interface_id" format="binary">
+AQAAAACAAACgAAAADwAAAA==eJxjZIAAxkFKAwAHMAAV
+</DataArray>
+<DataArray type="Int64" Name="is_mortar" format="binary">
+AQAAAACAAACgAAAADwAAAA==eJxjZIAAxkFKAwAHMAAV
+</DataArray>
+<DataArray type="Int64" Name="mortar_side" format="binary">
+AQAAAACAAACgAAAAEQAAAA==eJxjZIAARirRTFSmAQjoAB8=
+</DataArray>
+</CellData>
+</Piece>
+</UnstructuredGrid>
+</VTKFile>
